@@ -1,6 +1,6 @@
 # Optimize our Dirty App
 
-## Assignments 과제
+## 과제
 
 1. 이 시험의 중점은 프로그램의 성능을 향상시키는 것입니다. 성능의 수준은 프로그램이 끝날 때 alert창에서 보여주는 ms 단위 시간으로 측정합니다.
 
@@ -14,7 +14,26 @@
 5. 주석 넣어주시면 더욱 좋습니다.
 
 
+
 ## 참고사항
 
 * 추가적으로 필요하다 생각하는 모듈도 다운받아 쓰셔도 무관합니다.
 * 제한시간은 이메일에 안내해 드렸습니다.
+
+## Assignments
+
+1. The focus of this assignment is to increase performane of this application. We will measure its performance with the amount of time took (ms) to finish the application
+
+2. There are no answers.
+
+3. You may change the logic/code/styles freely. However, please do not alter intended design of the application.
+
+4. Smoothness < Speed
+
+5. Comments will be greatly appreciated.
+
+## Notes
+
+* You may install additional modules that you need.
+* Time limit is stated in your assignment email.
+* Either send us the completed assignment through email as a .zip file(without node modules) or create a fork. 

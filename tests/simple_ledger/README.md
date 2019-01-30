@@ -1,6 +1,6 @@
 # Create a Simple Ledger for Cryptocurrencies
 
-## Assignments 과제
+## 과제
 
 1. [코인원 공개 API](https://doc.coinone.co.kr/#api-Public)를 fetch 하여 매 10초마다 BTC, LTC, ETH의 원화 환산 가격 데이터를 불러온다.
 
@@ -19,3 +19,24 @@
 * Redux, Styled Components 등 필요한 모든 모듈들을 알아서 npm install 하시기 바랍니다.
 * 제한시간은 이메일에 안내해 드렸습니다.
 * 필수 모듈 외 필요하다고 생각하시는 다른 라이브러리들도 알아서 사용하시면 됩니다.
+  
+
+## Assignments
+
+1. Fetch [Coinone public API](https://doc.coinone.co.kr/#api-Public) every 10 seconds and update the currency exchange rate of BTC, LTC, and ETH realtime.
+
+2. The currency exchange must be saved in Redux, and the data should be shown on the screen.
+
+3. The total should be shown on the screen
+
+4. Refactor all CSS styles to Styled-Components.
+
+5. .Use .filter() to create a search function
+
+6. Add a memo function.
+
+## Notes
+
+*  All necessary modules such as Redux, Styled Components etc.. should be installed
+*  Time limit is in your email for the assignment.
+*  You may also install other libraries that you want.
